@@ -10,5 +10,5 @@ A fitness application where you can view, create, and track daily workouts.
 Also you can track the name, type, weight, sets, reps, and duration of exercise to see overall fitness progess.
 
 <h2>Deployed application</h2>
-https://almonzorhoden.github.io/fitness-tracker/
+In progess...
 
