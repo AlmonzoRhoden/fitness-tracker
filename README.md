@@ -17,6 +17,6 @@ Once the application is downloaded, run 'npm install' in the root location of yo
 Afterwards, you can view it locally on your computer by running 'node server.js' and then going to http://localhost:3000 to use.
 
 <h2>Questions?</h2>
-Feel free to email me at almonzo.rhoden@gmail.com, in order for me to address any questions or concerns you may have regarding my application thank you.
+Feel free to email me at almonzo.rhoden@gmail.com in order for me to address any questions or concerns you may have regarding my application thank you.
 
 
