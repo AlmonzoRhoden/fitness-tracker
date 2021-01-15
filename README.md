@@ -18,7 +18,7 @@ Once the application is downloaded, run the following commands in the terminal a
      `npm install`
     `node server.js`
 
-Afterwards, 'App listening on PORT: 3000' should displays in your terminal, open your web browser and search:
+Afterwards, 'App listening on PORT: 3000' should displays in your terminal, open your web browser and search to use locally:
 
     `http://localhost:3000/`
 
