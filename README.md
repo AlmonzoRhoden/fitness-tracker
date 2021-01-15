@@ -13,16 +13,12 @@ Also you can track the name, type, weight, sets, reps, and duration of exercise 
 In progess...
 
 <h2>Installation</h2>
-Once the application is downloaded, run 'npm install' in the root location of your project folder in which all packages will be installed.
-Afterwards, you can view it locally on your pc by running 'node server.js' in  the root location and then going to http://localhost:3000 on a web browser.
+Once the application is downloaded, run the following commands in the terminal at the root of your project folder: 
 
-
-Run the following command at the root of your project folder: 
-
-     `npm install  `
+     `npm install`
     `node server.js`
 
-Once 'App listening on PORT: 3000' displays in your terminal, open your browser and search:
+Afterwards, 'App listening on PORT: 3000' should displays in your terminal, open your web browser and search:
 
     `http://localhost:3000/`
 
