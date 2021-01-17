@@ -5,18 +5,17 @@ const mongoose = require("mongoose");
 
 // Adding router code
 const routes = require("./routes/routes");
-const router = require("./routes/routes");
 
 const PORT = process.env.PORT || 9000;
 
 const app = express();
 
-router.use(logger("dev"));
+app.use(logger("dev"));
 
-router.use(express.urlencoded({ extended: true }));
-router.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
-router.use(express.static("public"));
+app.use(express.static("public"));
 
 // MongoDB connection homework instruction from github
 mongoose.connect
@@ -30,7 +29,7 @@ mongoose.connect
     }
   );
 
-app.use("/", routes)
+app.use(routes);
 
 
 
