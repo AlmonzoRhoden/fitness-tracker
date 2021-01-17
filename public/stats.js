@@ -1,4 +1,5 @@
-function generatePalette() {
+function generatePalette() 
+{
   const arr = [
     '#003f5c',
     '#2f4b7c',
