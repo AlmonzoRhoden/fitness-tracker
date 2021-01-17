@@ -33,7 +33,8 @@ function populateChart(data) {
   let pie = document.querySelector('#canvas3').getContext('2d');
   let pie2 = document.querySelector('#canvas4').getContext('2d');
 
-  const daysOfWeek = [
+  const daysOfWeek =
+   [
     'Sunday',
     'Monday',
     'Tuesday',
@@ -43,7 +44,8 @@ function populateChart(data) {
     'Saturday',
   ];
 
-  const labels = data.map(({ day }) => {
+  const labels = data.map(({ day }) => 
+  {
     const date = new Date(day);
     return daysOfWeek[date.getDay()];
   });
