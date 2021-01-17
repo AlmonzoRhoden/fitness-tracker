@@ -98,6 +98,7 @@ function validateInputs() {
 async function handleFormSubmit(event) {
   event.preventDefault();
 
+  // Look here 104 to 117 excercises:[{}] - notes
   let workoutData = {};
 
   if (workoutType === "cardio") {
