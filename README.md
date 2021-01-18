@@ -14,7 +14,7 @@ An individual project, a fitness application where you can view, create, and tra
 Also you can track the name, type, weight, sets, reps, and duration of exercise to see overall fitness progess.
 
 <h2>Deployed application</h2>
-In progess...
+https://almonzo-fitness-tracker.herokuapp.com/
 
 <h2>Installation</h2>
 Once the application is downloaded, run the following commands in the terminal at the root of your project folder: 
