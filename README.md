@@ -2,7 +2,11 @@
 
 <h2>Preview of application<h2>
 
-![fit-app](https://user-images.githubusercontent.com/61447353/104115657-7a6bc580-52df-11eb-822b-2e6d903ad6bb.PNG)
+![Homepage](https://user-images.githubusercontent.com/61447353/104859965-ddb8b180-58f6-11eb-9c40-c2839d593e23.PNG)
+
+![Settings](https://user-images.githubusercontent.com/61447353/104859967-dee9de80-58f6-11eb-85dd-aa616fb8baed.PNG)
+
+![Dashboard](https://user-images.githubusercontent.com/61447353/104859971-e315fc00-58f6-11eb-9167-246c364fc307.PNG)
 
 <h2> Application descripition </h2>
 
