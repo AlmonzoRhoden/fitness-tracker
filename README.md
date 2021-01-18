@@ -22,9 +22,9 @@ Once the application is downloaded, run the following commands in the terminal a
      `npm install`
     `node server.js`
 
-Afterwards, 'App listening on port: 3000' should displays in your terminal, open your web browser and search to use locally offline:
+Afterwards, 'App listening on port: 9000' should displays in your terminal, open your web browser and search to use locally offline:
 
-    `http://localhost:3000/`
+    `http://localhost:9000/`
 
 ## Questions?
 Email me at almonzo.rhoden@gmail.com, so I can address any questions or concerns you may have regarding my application thank you.
